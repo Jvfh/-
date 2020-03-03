@@ -1,0 +1,17 @@
+#Algoritmo "semnome"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 03/03/2020
+Var
+   N1: Real
+
+
+Inicio
+      Escreva("Digite um número Real: ")
+      Leia(N1)
+      Escreva("Seu número é:",N1)
+
+
+Fimalgoritmo
