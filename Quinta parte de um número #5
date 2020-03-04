@@ -1,0 +1,19 @@
+#Algoritmo "semnome"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 03/03/2020
+Var
+    N1,D: Real
+
+
+Inicio
+      Escreva("Digite um número real: ")
+      Leia(N1)
+      D <- (N1)/5
+      Escreva("A quinta parte de",N1," é ",D)
+
+
+
+Fimalgoritmo
