@@ -1,0 +1,20 @@
+# Algoritmo "semnome"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 03/03/2020
+Var
+   TC,TF,C: Real
+
+
+Inicio
+      Escreva("Diga a temperatura em Celsius: ")
+      Leia(TC)
+      C <- (TC*(9.0/5.0)+32.0)
+      Escreva("A temperatura",TC," em Celsius Convertida para Fahrenheit é",C)
+      
+
+
+
+Fimalgoritmo
