@@ -1,11 +1,11 @@
-# Algoritmo "semnome"
+Algoritmo "semnome"
 // Disciplina  :  [Linguagem e Lógica de Programação] 
 // Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 03/03/2020
 Var
-   N1,N2,N3,S: Real
+   N1,N2,N3,S: Inteiro
 
 
 Inicio
