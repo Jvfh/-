@@ -1,0 +1,18 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   V,C: real
+
+Inicio
+      Escreva("Diga a velocidade em km: ")
+      Leia(V)
+      C <- (V/1.61)
+      Escreva("A velocidade de ",V," km Convertida para milhas é ",C:4:1)
+
+
+
+Fimalgoritmo
