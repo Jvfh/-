@@ -1,0 +1,18 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   A,C: real
+
+Inicio
+      Escreva("Digite um ângulo em graus: ")
+      Leia(A)
+      C <- (A/180) * 3.14)
+      Escreva("O ângulo ",A," em graus Convertido para para radianos é ",C:4:3)
+
+
+
+Fimalgoritmo
