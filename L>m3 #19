@@ -1,0 +1,18 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   V,C: real
+
+Inicio
+      Escreva("Digite um volume em Litros(L): ")
+      Leia(V)
+      C <- (V/1000)
+      Escreva("O volume",V," em Litros(L) para m3 é ",C:4:2)
+
+
+
+Fimalgoritmo
