@@ -1,0 +1,18 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   A,C: real
+
+Inicio
+      Escreva("Digite o valor de uma área em metros quadrados: ")
+      Leia(A)
+      C <-  (A*0.000247)
+      Escreva("A área",A," em metros quadrados para acres é ",C)
+
+
+
+Fimalgoritmo
