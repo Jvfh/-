@@ -1,0 +1,25 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   AB,H,A: Real
+   
+
+Inicio
+      Escreva("Digite a área da base do quadrado: ")
+      Leia(AB)
+      Escreva("Digite a altura do quadrado: ")
+      Leia(H)
+      A <- (AB*H)
+      Escreva("A área do quadrado é ",A)
+
+
+      
+
+
+
+
+Fimalgoritmo
