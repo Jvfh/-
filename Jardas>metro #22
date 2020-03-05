@@ -1,0 +1,18 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   D,C: real
+
+Inicio
+      Escreva("Digite um comprimento em Jardas: ")
+      Leia(D)
+      C <- (D * 0.91)
+      Escreva("A distancia",D," em jardas para metros é ",C:4:1)
+
+
+
+Fimalgoritmo
