@@ -1,0 +1,26 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   N1,N2,N3,N4,S: Real
+
+Inicio
+      Escreva("Digite a primeira nota: ")
+      Leia(N1)
+      Escreva("Digite a segunda nota: ")
+      Leia(N2)
+      Escreva("Digite a terceira nota: ")
+      Leia(N3)
+      Escreva("Digite a quarta nota ")
+      Leia(N4)
+      S <- (N1+N2+N3+N4)/4
+      Escreva("A media das quatro notas é:",S)
+      
+
+
+
+
+Fimalgoritmo
