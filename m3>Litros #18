@@ -10,7 +10,7 @@ Var
 Inicio
       Escreva("Digite um volume em metros cúbicos: ")
       Leia(V)
-      C <- (V/1000)
+      C <- (V*1000)
       Escreva("O volume",V," em m3 para Litros(L) é ",C:4:2)
 
 
