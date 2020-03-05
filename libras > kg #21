@@ -1,0 +1,18 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   M,C: real
+
+Inicio
+      Escreva("Digite uma massa em Libras: ")
+      Leia(M)
+      C <- (M * 0.45)
+      Escreva("A massa",M," em libras para (kg) é ",C:4:1)
+
+
+
+Fimalgoritmo
