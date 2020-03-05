@@ -1,0 +1,24 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   N,X,Y,Z: inteiro
+   
+
+Inicio
+      Escreva("Digite um número: ")
+      Leia(N)
+      X <- (N*3)+1)
+      Y <- (N*2)-1)
+      Z <- (X+Y)
+      Escreva("O resultado da soma é ",Z)
+
+      
+
+
+
+
+Fimalgoritmo
