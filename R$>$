@@ -1,0 +1,21 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   Vr,C: Real
+
+Inicio
+      Escreva("Digite o valor em R$: ")
+      Leia(Vr)
+      C <- (Vr/4.58)
+      Escreva("Valor em dólar $: ",C:4:2)
+
+      
+
+
+
+
+Fimalgoritmo
