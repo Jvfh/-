@@ -1,0 +1,24 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   :
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   QD,SB,SL,I: real
+   
+
+Inicio
+      Escreval("-----------------------------------------------------------")
+      Escreval("Um encanador cobra 30R$ por dia de serviço para uma empresa")
+      Escreva("Digite a quantidade de dias que ele irá trabalhar: ")
+      leia(QD)
+      SB <- (30*QD)
+      Escreval("-----------------------------------------------------------")
+      Escreval("Seu salário bruto é:",SB,"R$")
+      Escreval("--------------------------------------")
+      I <- (SB/100)*8
+      SL <- (SB-I)
+      Escreval("Com um imposto de 8% em cima de",SB,"R$")
+      Escreval ("Seu salario passa a ser",SL)
+      Escreval("--------------------------------------")
