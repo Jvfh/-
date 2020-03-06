@@ -1,0 +1,25 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   :
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   A,R: real
+   
+
+Inicio
+      Escreva("Digite o valor do raio de um circulo qualquer: ")
+      Leia(R)
+      A <- (R^2)*3.14
+      Escreva("O valor da área desse circulo é: ",A)
+
+      
+      
+
+
+
+      
+
+
+Fimalgoritmo
