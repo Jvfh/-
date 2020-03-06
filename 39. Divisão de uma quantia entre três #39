@@ -1,0 +1,27 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   :
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   V1,V2,V3: real
+
+Inicio
+      Escreval("--------------------------------------------------------")
+      Escreval("O valor de 780.000,00 R$ sera dividido entre 3 pessoas")
+      Escreval("Cada pessoa vai receber uma porcentagem do valor.")
+      Escreval("--------------------------------------------------------")
+      V1 <- (780.000/100)*46
+      Escreval("---------------------------------")
+      Escreval("O 1º lugar ganha:",V1," R$")
+      Escreval("---------------------------------")
+      V2 <- (780.000/100)*32
+      Escreval("---------------------------------")
+      Escreval("O 2º lugar ganha:",V2," R$")
+      Escreval("---------------------------------")
+      V3 <- (780.000/100)*22
+      Escreval("---------------------------------")
+      Escreval("O 3º lugar ganha:",V3," R$")
+      Escreval("---------------------------------")
+
