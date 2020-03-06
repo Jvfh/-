@@ -1,0 +1,27 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   :
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 04/03/2020
+Var
+   A,B,H: real
+   
+
+Inicio
+      Escreva("Valor do cateto A: ")
+      Leia(A)
+      Escreva("Valor do cateto B: ")
+      Leia(B)
+      H <- RaizQ((A^2)+(B^2))
+      Escreva("O Hipotenusa desses catetos é: ",H:4:1)
+
+      
+      
+
+
+
+      
+
+
+Fimalgoritmo
