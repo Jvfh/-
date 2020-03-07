@@ -1,20 +1,20 @@
 # Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   :
+// Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 06/03/2020
+// Data atual  : 07/03/2020
 Var
-   V,H: Real
+    VH,QH,SI: Real
 
 
 Inicio
       Escreva("Digite o valor da hora de trabalho: ")
-      Leia(V)
+      Leia(VH)
       Escreva("Quantidade de horas trabalhadas no mês: ")
-      Leia(H)
-      
-
+      Leia(QH)
+      SI <- (VH*QH)+(VH*QH)*0.1)
+      Escreva("O salário final com um acrecimo de 10% é:",SI,"R$")
 
 
 Fimalgoritmo
