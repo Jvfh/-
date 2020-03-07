@@ -1,0 +1,24 @@
+# Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   :
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 07/03/2020
+Var
+   SB,SL: Real
+
+
+
+Inicio
+      Escreva("Digite o salário-base: ")
+      Leia(SB)
+      Escreva("Aplicando 5% de gratificação ")
+      Escreval("com 7% de imposto em cima de",SB)
+      SL<- (SB*0.98)
+      Escreva("Seu salário líquido será de: ",SL)
+
+
+
+
+Fimalgoritmo 
+ 
